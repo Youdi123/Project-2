@@ -5,6 +5,7 @@ body{
   width: 100%;
   overflow: auto;
   background-color: #ff884d;
+  list-style-type: none;
 }
 .navbar a{
   font-size: 17px;
@@ -15,6 +16,7 @@ body{
   text-decoration: underline;
   width: 125px;
   padding: 12px;
+  list-style-type: none;
 }
 .navbar a:hover{
   color:yellow;
