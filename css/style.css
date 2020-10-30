@@ -20,19 +20,19 @@ body{
   color:yellow;
   background-color: blue;
 }
-#h1{
+h1{
   font-family: Palatino Linotype;
   color: red;
 }
-#h2{
+h2{
   font-weight: 700;
   font-family: Palatino Linotype;
 }
-#p{
+p{
   font-weight: 600;
   color: black;
 }
-#img{
+img{
   align-self: center;
   max-width: none;
   margin-bottom: 10px;
