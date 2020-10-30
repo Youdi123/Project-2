@@ -33,9 +33,6 @@ p{
   color: black;
 }
 img{
-  align-self: center;
-  max-width: none;
-  margin-bottom: 10px;
-  boder-color: rgba(255,130,255,0.3);
-  boder-style: dashed;
+  width: 350px;
+  legnth: 250px
 }
