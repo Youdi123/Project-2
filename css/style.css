@@ -1,1 +1,44 @@
-
+nav# title ul{
+  list-style-type: circle;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+nav# title ul li{
+  font-size: 1.25em;
+  margin: 10px;
+  float: left;
+}
+nav# title ul li a{
+  display: block;
+  background-color: yellow;
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  width: 125px;
+  padding: 12px 10px;
+  border-radius: 15px 50px;
+}
+nav# title ul li a: hover{
+  color:yellow;
+  background-color: blue;
+}
+h1{
+  font-family: Palatino Linotype;
+  color: red;
+}
+h2{
+  font-size: 0.5em
+}
+p{
+  font-weight: 600;
+  color: black;
+}
+img{
+  align-self: center;
+  max-width: none;
+  margin-bottom: 10px;
+  boder-color: rgba(255,130,255,0.3);
+  boder-style: dashed;
+}
