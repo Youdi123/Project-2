@@ -4,6 +4,7 @@ body{
 .navbar{
   width: 100%;
   overflow: auto;
+  background-color: #ff884d;
 }
 .navbar a{
   font-size: 17px;
