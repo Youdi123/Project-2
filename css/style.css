@@ -4,11 +4,11 @@ body{
 }
 .title{
   list-style-type: none;
+  overflow: auto;
 }
 .title a{
   font-size: 20px;
   margin: 10px;
-  display: block;
   background-color: yellow;
   color: blue;
   font-weight: bold;
@@ -17,8 +17,9 @@ body{
   width: 125px;
   padding: 12px 10px;
   border-radius: 15px 50px;
+  float: left;
 }
-.title a: hover{
+.title a:hover{
   color:yellow;
   background-color: blue;
 }
