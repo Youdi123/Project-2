@@ -37,4 +37,6 @@ img{
   legnth: 400px;
   border-radius: 10px;
   align-self: center;
+  boder-color: rgba(255,130,255,0.3);
+  boder-style: dashed;
 }
