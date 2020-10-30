@@ -4,14 +4,10 @@ body{
 }
 .title{
   list-style-type: none;
-  padding: 0;
-  margin: 0;
-  overflow: hidden;
 }
 .title a{
   font-size: 20px;
   margin: 10px;
-  float: left;
   display: block;
   background-color: yellow;
   color: blue;
