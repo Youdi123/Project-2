@@ -1,11 +1,11 @@
 body{
   background-color: #ccffcc
 }
-.title{
+.navbar{
   list-style-type: none;
   overflow: auto;
 }
-.t1 a{
+.navbar a{
   font-size: 20px;
   margin: 10px;
   background-color: yellow;
@@ -18,13 +18,10 @@ body{
   border-radius: 15px 50px;
   float: left;
 }
-.t1 a:hover{
+.navbar a:hover{
   color:yellow;
   background-color: blue;
 }
-#t{
-  text-align: center;
-  list-style-type: none;
 #h1{
   font-family: Palatino Linotype;
   color: red;
