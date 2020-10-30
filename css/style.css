@@ -5,7 +5,7 @@ body{
   list-style-type: none;
   overflow: auto;
 }
-.title a{
+.t1 a{
   font-size: 20px;
   margin: 10px;
   background-color: yellow;
@@ -18,10 +18,13 @@ body{
   border-radius: 15px 50px;
   float: left;
 }
-.title a:hover{
+.t1 a:hover{
   color:yellow;
   background-color: blue;
 }
+#t{
+  text-align: center;
+  list-style-type: none;
 h1{
   font-family: Palatino Linotype;
   color: red;
