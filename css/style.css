@@ -2,7 +2,7 @@ body{
   background-color: #ccffcc
 }
 .navbar{
-  list-style-type: none;
+  width: 100%;
   overflow: auto;
 }
 .navbar a{
