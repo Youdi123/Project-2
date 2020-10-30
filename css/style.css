@@ -21,7 +21,7 @@ bod y{
   color:yellow;
   background-color: blue;
 }
-h 1{
+h1 {
   font-family: Palatino Linotype;
   color: red;
 }
@@ -33,7 +33,7 @@ p {
   font-weight: 600;
   color: black;
 }
-.img-l {
+img {
   max-width: 100%;
   boder-color: rgba(255,130,255,0.3);
   boder-style: dashed;
