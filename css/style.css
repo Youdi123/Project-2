@@ -15,7 +15,6 @@ body{
   text-decoration: underline;
   width: 125px;
   padding: 12px 10px;
-  border-radius: 15px 50px;
   float: left;
 }
 .navbar a:hover{
