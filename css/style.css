@@ -1,12 +1,12 @@
-body{
+bod y{
   background-color: #ccffcc
 }
-.navbar{
+.navbar {
   overflow: auto;
   background-color: #ff884d;
   text-align:center;
 }
-.navbar a{
+.navbar a {
   display: block;
   background-color: yellow;
   color: blue;
@@ -17,25 +17,26 @@ body{
   padding: 10px;
   margin: 10px;
 }
-.navbar a:hover{
+.navbar a:hover {
   color:yellow;
   background-color: blue;
 }
-h1{
+h 1{
   font-family: Palatino Linotype;
   color: red;
 }
-h2{
+h2 {
   font-weight: 700;
   font-family: Palatino Linotype;
 }
-p{
+p {
   font-weight: 600;
   color: black;
 }
-img{
+.img-l {
   max-width: 100%;
-  legnth: 400px;
+  boder-color: rgba(255,130,255,0.3);
+  boder-style: dashed;
   border-radius: 10px;
   align-self: center;
 }
