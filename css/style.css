@@ -7,7 +7,7 @@ nav# title ul{
 nav# title ul li{
   font-size: 1.25em;
   margin: 10px;
-  float: left;
+  float: center;
 }
 nav# title ul li a{
   display: block;
@@ -23,6 +23,15 @@ nav# title ul li a{
 nav# title ul li a: hover{
   color:yellow;
   background-color: blue;
+}
+nav# int ul{
+  list-style-type: none;
+}
+nav# int ul li{
+  color: black;
+  font-weight: 500;
+  float: center;
+  margin: 5px;
 }
 h1{
   font-family: Palatino Linotype;
