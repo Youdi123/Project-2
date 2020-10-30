@@ -6,7 +6,7 @@ body{
   background-color: #ff884d;
 }
 .navbar a{
-  font-size: 17px;
+  display: block;
   background-color: yellow;
   color: blue;
   font-weight: bold;
@@ -34,5 +34,7 @@ p{
 }
 img{
   width: 350px;
-  legnth: 250px
+  legnth: 400px;
+  border-radius: 10px;
+  align-self: center;
 }
