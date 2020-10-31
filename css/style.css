@@ -1,8 +1,14 @@
 body {
   background-color: #ccffcc;
 }
-.navbar ul {
+.navbar {
   background-color: #ff884d;
+  text-align: center;
+}
+.navbar ul {
+  text-align: center;
+}
+.navbar li {
   text-align: center;
 }
 .navbar a {
