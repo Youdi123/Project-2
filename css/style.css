@@ -1,8 +1,7 @@
 body {
   background-color: #ccffcc;
-  text-align: center;
 }
-body ul {
+.navbar ul {
   text-align: center;
 }
 .navbar {
