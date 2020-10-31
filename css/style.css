@@ -1,5 +1,9 @@
 body {
-  background-color: #ccffcc
+  background-color: #ccffcc;
+  text-align: center;
+}
+body ul {
+  text-align: center;
 }
 .navbar {
   background-color: #ff884d;
