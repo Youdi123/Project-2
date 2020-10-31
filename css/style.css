@@ -3,10 +3,15 @@ body {
 }
 #navbar {
   background-color: #ff884d;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
   text-align: center;
 }
 #navbar a {
   padding: 10px;
+  display: block;
 }
 a.navl:link {
   display: block;
@@ -15,8 +20,8 @@ a.navl:link {
   text-align: center;
   font-weight: bold;
   text-decoration: underline;
-  width: 25%;
-  padding: 10px;
+  font-size: 100%;
+  padding-right: 2px;
   margin: 10px;
 }
 a.navl:hover {
