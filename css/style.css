@@ -1,8 +1,9 @@
 body {
   background-color: #ccffcc;
 }
-.navbar {
+.navbar ul {
   background-color: #ff884d;
+  text-align: center;
 }
 .navbar a {
   display: block;
