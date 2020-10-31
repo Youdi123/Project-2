@@ -5,12 +5,6 @@ body {
   background-color: #ff884d;
   text-align: center;
 }
-.navbar ul {
-  text-align: center;
-}
-.navbar li {
-  text-align: center;
-}
 .navbar a {
   display: block;
   background-color: yellow;
