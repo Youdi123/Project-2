@@ -5,10 +5,10 @@ body {
   background-color: #ff884d;
 }
 .navbar a {
-  text-align: center;
   display: block;
   background-color: yellow;
   color: blue;
+  text-align: center;
   font-weight: bold;
   text-decoration: underline;
   width: 25%;
