@@ -7,11 +7,11 @@ bod y{
   background-color: #ff884d;
 }
 .navbar a {
+  text-align: center;
   display: block;
   background-color: yellow;
   color: blue;
   font-weight: bold;
-  text-align: center;
   text-decoration: underline;
   width: 25%;
   padding: 10px;
