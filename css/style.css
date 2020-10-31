@@ -1,13 +1,10 @@
-bod y{
+body {
   background-color: #ccffcc
 }
 .navbar {
-  list-style-type: circle;
-  overflow: 5%;
   background-color: #ff884d;
 }
 .navbar a {
-  align: center;
   text-align: center;
   display: block;
   background-color: yellow;
