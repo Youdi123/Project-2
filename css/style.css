@@ -1,11 +1,14 @@
 body {
   background-color: #ccffcc;
 }
-.navbar {
+#navbar {
   background-color: #ff884d;
   text-align: center;
 }
-.navbar a {
+#navbar a {
+  padding: 10px;
+}
+a.navl:link {
   display: block;
   background-color: yellow;
   color: blue;
@@ -16,7 +19,7 @@ body {
   padding: 10px;
   margin: 10px;
 }
-.navbar a:hover {
+a.navl:hover {
   color:yellow;
   background-color: blue;
 }
