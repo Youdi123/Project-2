@@ -2,9 +2,9 @@ bod y{
   background-color: #ccffcc
 }
 .navbar {
-  overflow: auto;
+  list-style-type: none;
+  overflow: 5%;
   background-color: #ff884d;
-  text-align:center;
 }
 .navbar a {
   display: block;
@@ -35,8 +35,6 @@ p {
 }
 img {
   max-width: 100%;
-  boder-color: rgba(255,130,255,0.3);
-  boder-style: dashed;
   border-radius: 10px;
   align-self: center;
 }
