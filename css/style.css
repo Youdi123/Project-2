@@ -1,5 +1,6 @@
 body {
   background-color: #ccffcc;
+  position: relative;
 }
 #navbar ul {
   background-color: #ff884d;
@@ -44,4 +45,33 @@ p {
 img {
   max-width: 100%;
   border-radius: 10px;
+}
+#record {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #EF8FF0;
+  font-family: Arial;
+}
+#award {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #EA7AEB;
+  font-family: Arial;
+}
+#activity {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #E75DE8;
+  font-family: Arial;
+}
+.text {
+  float: left;
+  color: black;
+  font-family: Tahoma;
+}
+#line {
+  margin: 3em;
+  border: 1px dotted blue;
+  font-size: 10px;
+  color: #CBD708;
 }
