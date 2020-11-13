@@ -35,11 +35,11 @@ h2 {
   font-weight: 700;
   font-family: Palatino Linotype;
   float: left;
-  margin: 0 15px;
 }
 p {
   font-weight: 600;
   color: black;
+  margin: 15%;
 }
 img {
   max-width: 100%;
