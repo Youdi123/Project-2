@@ -8,6 +8,7 @@ body {
   padding: 0;
   overflow: hidden;
   text-align: center;
+  display: inline-block;
 }
 #navbar a {
   padding: 10px;
@@ -31,10 +32,13 @@ a.navl:hover {
 h1 {
   font-family: Palatino Linotype;
   color: red;
+  text-align: center;
 }
 h2 {
   font-weight: 700;
   font-family: Palatino Linotype;
+  float: left;
+  margin: 0 15px;
 }
 p {
   font-weight: 600;
