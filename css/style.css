@@ -89,12 +89,14 @@ img {
   align-items: center;
 }
 .pic11 {
-  max-width: 100%;
+  max-width: 400px;
   length: 500px;
   float: left;
+  align-items: center;
 }
 .pic22 {
-  max-width: 100%;
+  width: 400px;
   length: 500px;
   float: right;
+  align-items: center;
 }
