@@ -78,14 +78,23 @@ img {
   font-size: 17px;
   color: #CBD708;
 }
-.pic1 {
+#pic1 {
   float: left;
   width: 50%;
   align-items: center;
 }
-.pic2 {
+#pic2 {
   float: right;
   width: 50%;
   align-items: center;
 }
-  
+.pic11 {
+  max-width: 100%;
+  length: 500px;
+  float: left;
+}
+.pic22 {
+  max-width: 100%;
+  length: 500px;
+  float: right;
+}
