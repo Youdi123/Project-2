@@ -51,22 +51,26 @@ img {
   text-decoration: underline;
   color: #EF8FF0;
   font-family: Arial;
+  margin: 1.5em;
 }
 #award {
   font-weight: bold;
   text-decoration: underline;
   color: #EA7AEB;
   font-family: Arial;
+  margin: 1.5em;
 }
 #activity {
   font-weight: bold;
   text-decoration: underline;
   color: #E75DE8;
   font-family: Arial;
+  margin: 1.5em;
 }
 .text {
   color: black;
   font-family: Tahoma;
+  margin: 1.5em;
 }
 #line {
   margin: 3em;
