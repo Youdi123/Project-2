@@ -44,7 +44,7 @@ p {
 img {
   max-width: 100%;
   border-radius: 10px;
-  align: center;
+  align-items: center;
 }
 #record {
   font-weight: bold;
@@ -78,3 +78,14 @@ img {
   font-size: 17px;
   color: #CBD708;
 }
+.pic1 {
+  float: left;
+  width: 50%;
+  align-items: center;
+}
+.pic2 {
+  float: right;
+  width: 50%;
+  align-items: center;
+}
+  
