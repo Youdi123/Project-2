@@ -44,7 +44,8 @@ p {
 img {
   max-width: 100%;
   border-radius: 10px;
-  align-items: center;
+  align-self: center;
+  margin: 1em;
 }
 #record {
   font-weight: bold;
@@ -89,14 +90,14 @@ img {
   align-items: center;
 }
 .pic11 {
-  max-width: 400px;
-  length: 500px;
+  width: 400px;
+  height: 500px;
   float: left;
-  align-items: center;
+  align-self: center;
 }
 .pic22 {
   width: 400px;
-  length: 500px;
+  height: 500px;
   float: right;
-  align-items: center;
+  align-self: center;
 }
